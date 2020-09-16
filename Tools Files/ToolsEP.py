@@ -15,6 +15,3 @@ print(isEven (2))
 #Batch Test for isEven
 for i in range (0, 100, 1):
     print(isEven(i))
-
-
-def base2To10(str)
